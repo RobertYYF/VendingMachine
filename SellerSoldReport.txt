@@ -1,0 +1,8 @@
+Sold Items	
+Code:  CHO1		Name:  M&M		Total Number Of Quantity:  3		
+Code:  CHI1		Name:  Smiths		Total Number Of Quantity:  1		
+Code:  CHI3		Name:  Bounty		Total Number Of Quantity:  2		
+Code:  DRI5		Name:  Juice		Total Number Of Quantity:  1		
+Code:  CAN2		Name:  Mentos		Total Number Of Quantity:  1		
+Code:  CHI4		Name:  Thins		Total Number Of Quantity:  1		
+Code:  CAN3		Name:  Skittles		Total Number Of Quantity:  5		

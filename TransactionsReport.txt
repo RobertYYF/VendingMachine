@@ -1,0 +1,33 @@
+Transaction Report	
+Items:  [Smiths]		Paid:  10		Change:  1		Time:  2020-11-11_15:28		Payment Method:  cash		
+Items:  [M&M]		Paid:  40.0		Change:  0		Time:  2020-11-11_15:39		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-12_15:27		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-12_15:28		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-12_16:01		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-12_16:02		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-12_16:04		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-12_16:06		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-12_16:13		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-17_18:44		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-17_19:48		Payment Method:  card		
+Items:  [Smiths]		Paid:  10		Change:  1		Time:  2020-11-18_13:42		Payment Method:  cash		
+Items:  [Coca cola]		Paid:  10		Change:  1		Time:  2020-11-18_11:07		Payment Method:  cash		
+Items:  [Coca cola]		Paid:  10		Change:  1		Time:  2020-11-18_11:24		Payment Method:  cash		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-18_11:50		Payment Method:  card		
+Items:  [Sprite]		Paid:  2.0		Change:  0		Time:  2020-11-18_14:17		Payment Method:  card		
+Items:  [Sprite]		Paid:  2.0		Change:  0		Time:  2020-11-18_14:29		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-18_14:35		Payment Method:  card		
+Items:  [coco]		Paid:  1		Change:  0		Time:  2020-11-19_00:22		Payment Method:  card		
+Items:  [M&M]		Paid:  10		Change:  10		Time:  2020-11-19_00:34		Payment Method:  cash		
+Items:  [M&M]		Paid:  10		Change:  1		Time:  2020-11-19_01:51		Payment Method:  cash		
+Items:  [Smiths]		Paid:  10.0		Change:  0		Time:  2020-11-19_01:52		Payment Method:  card		
+Items:  [Mentos, Juice]		Paid:  16.0		Change:  0		Time:  2020-11-19_01:53		Payment Method:  card		
+Items:  [Mars]		Paid:  10.0		Change:  0		Time:  2020-11-19_01:54		Payment Method:  card		
+Items:  [Coca cola]		Paid:  4.0		Change:  0		Time:  2020-11-19_01:55		Payment Method:  card		
+Items:  [M&M]		Paid:  10		Change:  1		Time:  2020-11-19_02:24		Payment Method:  cash		
+Items:  [Smiths]		Paid:  10.0		Change:  0		Time:  2020-11-19_02:24		Payment Method:  card		
+Items:  [Coca cola, Juice]		Paid:  12.0		Change:  0		Time:  2020-11-19_02:26		Payment Method:  card		
+Items:  [Mentos]		Paid:  8.0		Change:  0		Time:  2020-11-19_02:27		Payment Method:  card		
+Items:  [Thins]		Paid:  10.0		Change:  0		Time:  2020-11-19_02:27		Payment Method:  card		
+Items:  [Kettle]		Paid:  10		Change:  10		Time:  2020-11-19_12:42		Payment Method:  cash		
+Items:  [Juice]		Paid:  10		Change:  6		Time:  2020-11-19_12:45		Payment Method:  cash		

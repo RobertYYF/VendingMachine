@@ -1,0 +1,5 @@
+Number of available notes: $5x7 $10x7 $20x6 $50x5 $100x5 
+Number of available coins(dollars): $1x4 $2x4 
+Number of available coins(cents): $1x5 $2x5 $5x5 $10x5 $20x5 $50x5 
+Total amount of changes: $991.4
+

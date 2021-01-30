@@ -1,0 +1,11 @@
+Current Available Items	
+Category:  drinks		Name:  Juice		Price:  4		Amount:  7		Code:  DRI5		
+Category:  chocolates		Name:  Mars		Price:  10		Amount:  7		Code:  CHO2		
+Category:  chocolates		Name:  Snickers		Price:  10		Amount:  7		Code:  CHI4		
+Category:  chips		Name:  Thins		Price:  10		Amount:  7		Code:  CHI4		
+Category:  candies		Name:  Sour Patch		Price:  8		Amount:  7		Code:  CAN1		
+Category:  candies		Name:  Skittles		Price:  8		Amount:  7		Code:  CAN3		
+Category:  candies		Name:  Mentos		Price:  8		Amount:  7		Code:  CAN2		
+Category:  drinks		Name:  Coca cola		Price:  4		Amount:  7		Code:  DRI3		
+Category:  chocolates		Name:  M&M		Price:  10		Amount:  10		Code:  CHO1		
+Category:  chips		Name:  Thins		Price:  10		Amount:  8		Code:  CHI4		

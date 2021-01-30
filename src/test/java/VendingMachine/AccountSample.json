@@ -1,0 +1,1 @@
+[{"password":"1","role":"customer","creditCards":[{"number":"40691","name":"Charles"}],"username":"1"},{"password":"2","role":"customer","creditCards":[],"username":"2"},{"password":"a","role":"owner","creditCards":[],"username":"a"},{"password":"q","role":"seller","creditCards":[],"username":"q"},{"password":"c","role":"cashier","creditCards":[],"username":"c"}]

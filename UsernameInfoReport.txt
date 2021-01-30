@@ -1,0 +1,12 @@
+Current Available Users	
+Username:  1		Role:  customer		
+Username:  a		Role:  owner		
+Username:  q		Role:  seller		
+Username:  2		Role:  customer		
+Username:  3		Role:  customer		
+Username:  c		Role:  cashier		
+Username:  4		Role:  customer		
+Username:  Bob		Role:  customer		
+Username:  5		Role:  customer		
+Username:  charles1234		Role:  customer		
+Username:  yyao9817		Role:  customer		

@@ -1,0 +1,5 @@
+Sold Items	
+Code:  DRI1		Name:  Sprite		Total Number Of Quantity:  13		
+Code:  CHO1		Name:  M&M		Total Number Of Quantity:  5		
+Code:  CHI1		Name:  Smiths		Total Number Of Quantity:  3		
+Code:  CAN1		Name:  Skittles		Total Number Of Quantity:  5		

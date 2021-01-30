@@ -1,0 +1,7 @@
+Cancel Transaction Details	
+Time:  2020-11-09 14:41:59		Username:  1		Cancelled Reason:  user cancelled		
+Time:  2020-11-09 14:51:55		Username:  anonymous		Cancelled Reason:  user cancelled		
+Time:  2020-11-09 16:00:11		Username:  anonymous		Cancelled Reason:  timeout		
+Time:  2020-11-09 16:00:21		Username:  anonymous		Cancelled Reason:  timeout		
+Time:  2020-11-09 16:00:31		Username:  anonymous		Cancelled Reason:  timeout		
+Time:  2020-11-10 20:42:57		Username:  anonymous		Cancelled Reason:  timeout		

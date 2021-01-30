@@ -1,0 +1,5 @@
+Current Available Items	
+Category:  chips		Name:  Smiths		Price:  6		Amount:  8		Code:  CHI1		
+Category:  chocolates		Name:  M&M		Price:  10		Amount:  3		Code:  CHO1		
+Category:  candies		Name:  Skittles		Price:  8		Amount:  4		Code:  CAN1		
+Category:  drinks		Name:  Sprite		Price:  4		Amount:  6		Code:  DRI1		

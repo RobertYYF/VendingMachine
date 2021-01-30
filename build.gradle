@@ -1,0 +1,68 @@
+plugins {
+    // Apply the java plugin to add support for Java
+    id 'java'
+
+    // Apply the application plugin to add support for building an application
+    id 'application'
+    id 'jacoco'
+    id 'org.openjfx.javafxplugin' version '0.0.8'
+}
+
+repositories {
+    mavenCentral()
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    testImplementation('org.junit.jupiter:junit-jupiter:5.6.2')
+    compile group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'
+    implementation 'com.googlecode.json-simple:json-simple:1.1.1'
+    testCompile "junit:junit:4.13-beta-3"
+    testCompile "org.testfx:testfx-junit:4.0.16-alpha"
+}
+
+javafx {
+    version = "14"
+    modules = [ 'javafx.controls']
+}
+
+jacoco {
+    toolVersion = "0.8.4"
+    reportsDir = file("$buildDir/coverage")
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled false
+        csv.enabled false
+        html.destination file("${buildDir}/jacocoHtml")
+    }
+    getClassDirectories().setFrom(fileTree
+    (dir: "build/classes/java/main/VendingMachine",
+        exclude: ['LoginPage.class',
+  			'DefaultPage.class','SellerView.class',
+        'CreateAccount.class',
+  			'ShoppingList.class','CardMainPage.class',
+        'CashPage.class','CardSavePopUpPage.class',
+		'OwnerWelcomePage.class',
+		'OwnerUserManagementPage.class',
+        'CardMainPage.class',
+        'CardSavePopUpPage.class',
+        'CardPaySuccess.class',
+        'CashierView.class','PaymentMethod.class',
+        'PaymentMethod.class',
+        'App.class'
+  			]))
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'VendingMachine.RunApp'
+    }
+}
+
+mainClassName = 'VendingMachine.RunApp'
+build.dependsOn jacocoTestReport
